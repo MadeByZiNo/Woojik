@@ -1,6 +1,6 @@
 # Woojik 간단한 가축(소) 관리 시스템
 
-**프로젝트 기간: 2025-12-08~**
+**프로젝트 기간: 2025-12-07~**
 
 **기술 : Java/Spring/React/TypeScript/MySQL/influxDB**
 
