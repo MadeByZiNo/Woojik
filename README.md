@@ -48,7 +48,7 @@
 <img width="2879" height="1317" alt="image" src="https://github.com/user-attachments/assets/5189a9e2-f391-4d00-a416-607291fd206d" />
 현재 나의 축사에 맡게 조절하고 관리 할 수 있으며 해당 축사 안의 구별된 호의 가축 확인이 가능하고 과밀 기준을 넘을 시 과밀되어있는지 표시를 해줍니다.
 <br/><br/>
-![제목 없는 비디오 - Clipchamp로 제작 (1)](https://github.com/user-attachments/assets/324ca8f5-d738-48ab-ac52-d537f2e32f7b)
+<img width="2879" height="1317" alt="image" src="https://github.com/user-attachments/assets/324ca8f5-d738-48ab-ac52-d537f2e32f7b" />
 화면에서 직접 방을 추가하거나 삭제하고 크기조절을 해서 나의 축사처럼 모양을 비슷하게 만들어서 확인이 가능합니다.
 <br/><br/>
 
